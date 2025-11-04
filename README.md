@@ -11,7 +11,7 @@
 
 ---
 
-## 🧬 QUANTUM STACK
+## 🧬 STACK
 
 <table>
 <tr>
