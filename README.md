@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🌌 DAVID ONYANGO
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&height=80&lines=🌌+DAVID+ONYANGO;💻+FULL-STACK+ARCHITECT;🤖+AI+ENGINEER;🚀+DIGITAL+INNOVATOR" alt="Animated Name" />
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
-║  FULL-STACK ARCHITECT • AI ENGINEER • DIGITAL INNOVATOR     ║
+║         ENGINEERING THE FUTURE • ONE LINE AT A TIME         ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -71,13 +71,50 @@ mindmap
 
 </div>
 
-| Domain | Technologies | Mastery Level |
-|--------|-------------|---------------|
-| **⚛️ Frontend Engineering** | React • Flutter • Next.js • HTML5 • CSS3 • JavaScript ES6+ | ████████░░ 80% |
-| **🔧 Backend Architecture** | Node.js • Express • Java • Spring Boot • RESTful APIs | ████████░░ 85% |
-| **🤖 AI & Intelligence** | Machine Learning • Computer Vision • NLP • TensorFlow | ███████░░░ 70% |
-| **💾 Database Systems** | MySQL • MongoDB • PostgreSQL • Firebase Realtime DB | ████████░░ 80% |
-| **☁️ Cloud & DevOps** | AWS • Docker • Git • CI/CD • Serverless Architectures | ███████░░░ 75% |
+<div align="center">
+
+### 💎 SKILL MATRIX
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Frontend-Engineering-00F7FF?style=for-the-badge&logo=react&logoColor=white" /><br/>
+<img src="https://skillicons.dev/icons?i=react,flutter,nextjs,html,css,js&theme=dark" /><br/>
+<img src="https://geps.dev/progress/85?dangerColor=00F7FF&warningColor=00F7FF&successColor=00F7FF" />
+<br/><sub><b>85% Mastery</b></sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Backend-Architecture-FF6B6B?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,fastapi&theme=dark" /><br/>
+<img src="https://geps.dev/progress/88?dangerColor=FF6B6B&warningColor=FF6B6B&successColor=FF6B6B" />
+<br/><sub><b>88% Mastery</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/AI-Intelligence-9D4EDD?style=for-the-badge&logo=tensorflow&logoColor=white" /><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,opencv&theme=dark" /><br/>
+<img src="https://geps.dev/progress/75?dangerColor=9D4EDD&warningColor=9D4EDD&successColor=9D4EDD" />
+<br/><sub><b>75% Mastery</b></sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Database-Systems-4CAF50?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,redis&theme=dark" /><br/>
+<img src="https://geps.dev/progress/82?dangerColor=4CAF50&warningColor=4CAF50&successColor=4CAF50" />
+<br/><sub><b>82% Mastery</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<img src="https://img.shields.io/badge/Cloud-DevOps-FFA500?style=for-the-badge&logo=amazonaws&logoColor=white" /><br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,kubernetes&theme=dark" /><br/>
+<img src="https://geps.dev/progress/78?dangerColor=FFA500&warningColor=FFA500&successColor=FFA500" />
+<br/><sub><b>78% Mastery</b></sub>
+</td>
+</tr>
+</table>
 
 ---
 
