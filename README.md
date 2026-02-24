@@ -57,11 +57,13 @@ mindmap
       AI/ML Integration
       NLP Systems
       Computer Vision
+      CyberSecurity
     Data Layer
       MySQL
       MongoDB
       Firebase
       Redis
+      Postgres
     DevOps
       Git/GitHub
       Docker
@@ -167,12 +169,12 @@ Mission: Empowering farmers with AI-driven crop health diagnostics
 </details>
 
 <details>
-<summary><b>🌾 AGRI CONNECT</b> — Farmer-Market Integration Platform</summary>
+<summary><b>🌾 AGROVAULT</b> — Farmer-Market Integration Platform</summary>
 
 ```yaml
 Status: Scaling Phase
 Impact: Agricultural Economics
-Tech: React • Node.js • Express • MongoDB
+Tech: React • Node.js • Express • Postgres
 Mission: Direct market access for farmers through digital transformation
 ```
 
@@ -182,7 +184,7 @@ Mission: Direct market access for farmers through digital transformation
 - 📦 Supply chain optimization
 - 📊 Real-time commodity tracking
 
-[🔗 Coming Soon](#)
+[🔗 View Repository](https://github.com/Daudicode12/Agrivault) | [📱 Try Beta](#)
 
 </details>
 
@@ -221,7 +223,8 @@ Mission: Next-gen conversational AI for seamless user interactions
 │  → Serverless computing & edge deployment strategies   │
 │  → WebAssembly for high-performance web applications   │
 │  → Blockchain integration for decentralized solutions  │
-│  → Quantum computing readiness & algorithms            │
+│  → Quantum computing readiness & algorithms
+│  - Cyber Security expert
 └─────────────────────────────────────────────────────────┘
 ```
 
@@ -241,7 +244,7 @@ Mission: Next-gen conversational AI for seamless user interactions
 
 ### 🏆 ACHIEVEMENT UNLOCKED
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DavidOnyango&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/DavidOnyango)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DavidOnyango&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/Daudicode12)
 
 </div>
 
