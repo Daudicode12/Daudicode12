@@ -236,15 +236,15 @@ Mission: Next-gen conversational AI for seamless user interactions
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DavidOnyango&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidOnyango&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Daudicode12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Daudicode12&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="GitHub Streak" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidOnyango&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidOnyango&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" alt="Contribution Graph" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daudicode12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Daudicode12&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" alt="Contribution Graph" width="48%" />
 
 ### 🏆 ACHIEVEMENT UNLOCKED
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DavidOnyango&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/Daudicode12)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Daudicode12&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/Daudicode12)
 
 </div>
 
