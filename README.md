@@ -274,6 +274,8 @@ Mission: Next-gen conversational AI for seamless user interactions
 ---
 
 <div align="center">
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/username/repo-name/blob/main/notebook.ipynb)
 
 **⚡ "Code is poetry written in logic, and innovation is the verse that changes the world." ⚡**
 
