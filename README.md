@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=650&height=100&lines=🌌+DAVID+ODIPO;💻+FULL-STACK+ARCHITECT;🤖+AI+ENGINEER;🚀+DIGITAL+INNOVATOR" alt="Animated Name" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=700&height=100&lines=🌌+DAVID+ODIPO;💻+FULL-STACK+ARCHITECT;🤖+AI+ENGINEER;🚀+DIGITAL+INNOVATOR" alt="Animated Name" />
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
