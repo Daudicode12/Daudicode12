@@ -62,7 +62,7 @@ I build practical software that solves real problems, from healthcare and agricu
 
 <div align="center">
 
-| ⚙️ Backend | 🤖 AI Integration | 🔐 Security Mindset |
+| ⚙️ Backend | 🤖 AI Integration | 🔐 Security Mindset | ML pipelines | Data Engineer |
 |:--|:--|:--|
 | REST APIs, authentication, validation and database design with Node.js/Express and Spring Boot | Adding AI and computer vision to real products through APIs and models | Building with secure defaults: validated input, proper auth, careful data handling |
 
@@ -77,24 +77,24 @@ Click any card to open the repository.
 
 <div align="center">
 
-<a href="https://github.com/Daudicode12/blood-donation-with-next.js"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daudicode12&repo=blood-donation-with-next.js&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="Blood Connect repository" width="48%" /></a>
+<a href="https://github.com/ipkoech/ksu-website.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ipkoech&repo=ksu-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="Kisii univeristy" width="48%" /></a>
 <a href="https://github.com/Daudicode12/plant-care"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daudicode12&repo=plant-care&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="CropCare AI repository" width="48%" /></a>
-<a href="https://github.com/Daudicode12/Agrivault"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daudicode12&repo=Agrivault&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="AgroVault repository" width="48%" /></a>
-
+<a href="https://github.com/Daudicode12/Agrovault"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daudicode12&repo=Agrivault&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="AgroVault repository" width="48%" /></a>
+<a href="https://github.com/Daudicode12/EliraHealth.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daudicode12&repo=EliraHealth&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="Elirahealth" width="48%" /></a>
+<a href="https://github.com/Daudicode12/grocery_vendor_web.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daudicode12&repo=grocery_vendor_web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="grocery portal" width="48%" /></a>
 </div>
 
 <br/>
 
 <details open>
-<summary><b>🩸 Blood Connect</b>: connecting blood donors with hospitals</summary>
+<summary><b>Kisii University web</b>: Modern Kisii University web</summary>
 <br/>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- ⚡ Real-time donor-hospital matching
-- 📍 Geolocation-based emergency requests
+- ⚡ Clear and modern UI
+- 📍 clear user interaction
 - 🔐 Secure handling of sensitive user data
-- 📊 Supply tracking to support blood-stock planning
 
 [🔗 View Repository](https://github.com/Daudicode12/blood-donation-with-next.js)
 
@@ -111,7 +111,7 @@ Click any card to open the repository.
 - 💊 Treatment recommendations
 - 📈 Crop health analytics over time
 
-[🔗 View Repository](https://github.com/Daudicode12/plant-care)
+[🔗 View Repository](https://github.com/ipkoech/ksu-website.git)
 
 </details>
 
