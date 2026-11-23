@@ -1,284 +1,227 @@
+<a id="top"></a>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=700&height=100&lines=🌌+DAVID+ODIPO;💻+FULL-STACK+ARCHITECT;🤖+AI+ENGINEER;🚀+DIGITAL+INNOVATOR" alt="Animated Name" />
+<!-- 3D rotating hero (file: assets/hero.svg) -->
+<img src="assets/hero.svg" width="100%" alt="David Onyango - Full-Stack and AI Engineer" />
 
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║         ENGINEERING THE FUTURE • ONE LINE AT A TIME         ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<a href="https://github.com/Daudicode12">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+scalable+backends+with+Node.js+%26+Spring+Boot;Integrating+AI+into+real+products;Security-minded+from+the+first+commit" alt="Typing animation" />
+</a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+The+Future%2C+One+Commit+At+A+Time;Transforming+Ideas+Into+Intelligent+Solutions" alt="Typing SVG" />
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=white)](/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daudislugger)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidonya2@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=DavidOnyango&color=00F7FF&style=for-the-badge)](https://github.com/DavidOnyango)
+<a href="https://linkedin.com/in/daudislugger"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:davidonya2@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio coming soon" />
+<img src="https://komarev.com/ghpvc/?username=Daudicode12&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+
+<br/><br/>
+
+**[About](#about) &nbsp;•&nbsp; [Stack](#stack) &nbsp;•&nbsp; [Projects](#projects) &nbsp;•&nbsp; [3D Graph](#graph) &nbsp;•&nbsp; [Stats](#stats) &nbsp;•&nbsp; [Workflow](#build) &nbsp;•&nbsp; [Exploring](#explore) &nbsp;•&nbsp; [Contact](#connect)**
 
 </div>
 
----
+<br/>
 
-## 🧬 CORE.IDENTITY
+<a id="about"></a>
+<img src="assets/h-about.svg" width="100%" alt="About" />
 
-```javascript
-const david = {
-  role: "Full-Stack Architect & AI Integration Specialist",
-  mission: "Engineering scalable solutions that bridge technology and humanity",
-  philosophy: "Clean code. Maximum impact. Zero compromise.",
-  status: "Building tomorrow's digital infrastructure today"
-};
-```
+<div align="center">
+  <img src="assets/about-terminal.svg" width="100%" alt="Animated terminal introducing David Onyango" />
+</div>
 
-I architect **next-generation applications** that don't just solve problems—they **redefine possibilities**. From intelligent AI systems to enterprise-grade platforms, I transform complex challenges into elegant, scalable solutions that drive real-world impact.
+<br/>
 
----
-
-## ⚡ TECH.ARSENAL
+I build practical software that solves real problems, from healthcare and agriculture to platforms that connect people and opportunity across Africa. I care about clean architecture, secure-by-default design, and shipping things people actually use.
 
 <div align="center">
 
-### 🎯 PRIMARY WEAPONS
+| 📍 Based in | 🎯 Focus | 🌱 Learning | 🤝 Open to |
+|:--:|:--:|:--:|:--:|
+| Nairobi, Kenya | Backend & APIs | AI/ML integration | Internships, collabs, open source |
 
-```mermaid
-mindmap
-  root((TECH STACK))
-    Frontend
-      React
-      Flutter
-      Next.js
-      TailwindCSS
-    Backend
-      Node.js
-      Express.js
-      Spring Boot
-      RESTful APIs
-    Intelligence
-      AI/ML Integration
-      NLP Systems
-      Computer Vision
-      CyberSecurity
-    Data Layer
-      MySQL
-      MongoDB
-      Firebase
-      Redis
-      Postgres
-    DevOps
-      Git/GitHub
-      Docker
-      Cloud Platforms
-      CI/CD Pipelines
-```
+</div>
+
+<div align="right"><a href="#top">⬆ back to top</a></div>
+
+<a id="stack"></a>
+<img src="assets/h-stack.svg" width="100%" alt="Tech stack" />
+
+<div align="center">
+
+| Area | Technologies |
+|:--|:--|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css,js&theme=dark" alt="Frontend technologies" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,fastapi&theme=dark" alt="Backend technologies" /> |
+| **AI / ML** | <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" alt="AI and ML technologies" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis&theme=dark" alt="Databases" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel&theme=dark" alt="DevOps and tools" /> |
 
 </div>
 
 <div align="center">
 
-### 💎 SKILL MATRIX
+| ⚙️ Backend | 🤖 AI Integration | 🔐 Security Mindset |
+|:--|:--|:--|
+| REST APIs, authentication, validation and database design with Node.js/Express and Spring Boot | Adding AI and computer vision to real products through APIs and models | Building with secure defaults: validated input, proper auth, careful data handling |
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/Frontend-Engineering-00F7FF?style=for-the-badge&logo=react&logoColor=white" /><br/>
-<img src="https://skillicons.dev/icons?i=react,flutter,nextjs,html,css,js&theme=dark" /><br/>
-<img src="https://geps.dev/progress/85?dangerColor=00F7FF&warningColor=00F7FF&successColor=00F7FF" />
-<br/><sub><b>85% Mastery</b></sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/Backend-Architecture-FF6B6B?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,fastapi&theme=dark" /><br/>
-<img src="https://geps.dev/progress/88?dangerColor=FF6B6B&warningColor=FF6B6B&successColor=FF6B6B" />
-<br/><sub><b>88% Mastery</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/AI-Intelligence-9D4EDD?style=for-the-badge&logo=tensorflow&logoColor=white" /><br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,opencv&theme=dark" /><br/>
-<img src="https://geps.dev/progress/75?dangerColor=9D4EDD&warningColor=9D4EDD&successColor=9D4EDD" />
-<br/><sub><b>75% Mastery</b></sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/Database-Systems-4CAF50?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,redis&theme=dark" /><br/>
-<img src="https://geps.dev/progress/82?dangerColor=4CAF50&warningColor=4CAF50&successColor=4CAF50" />
-<br/><sub><b>82% Mastery</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-<img src="https://img.shields.io/badge/Cloud-DevOps-FFA500?style=for-the-badge&logo=amazonaws&logoColor=white" /><br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,kubernetes&theme=dark" /><br/>
-<img src="https://geps.dev/progress/78?dangerColor=FFA500&warningColor=FFA500&successColor=FFA500" />
-<br/><sub><b>78% Mastery</b></sub>
-</td>
-</tr>
-</table>
+<div align="right"><a href="#top">⬆ back to top</a></div>
 
----
+<a id="projects"></a>
+<img src="assets/h-projects.svg" width="100%" alt="Projects" />
 
-## 🚀 MISSION.CRITICAL_PROJECTS
+Click any card to open the repository.
 
 <div align="center">
 
-### 🏆 FLAGSHIP DEPLOYMENTS
+<a href="https://github.com/Daudicode12/blood-donation-with-next.js"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daudicode12&repo=blood-donation-with-next.js&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="Blood Connect repository" width="48%" /></a>
+<a href="https://github.com/Daudicode12/plant-care"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daudicode12&repo=plant-care&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="CropCare AI repository" width="48%" /></a>
+<a href="https://github.com/Daudicode12/Agrivault"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daudicode12&repo=Agrivault&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="AgroVault repository" width="48%" /></a>
 
 </div>
+
+<br/>
 
 <details open>
-<summary><b>🩸 BLOOD CONNECT SYSTEM</b> — Lifesaving Technology Platform</summary>
+<summary><b>🩸 Blood Connect</b>: connecting blood donors with hospitals</summary>
+<br/>
 
-```yaml
-Status: Production Ready
-Impact: Healthcare Infrastructure
-Tech: Next.js • Node.js • MySQL • Real-time Matching
-Mission: Connecting blood donors with hospitals in critical moments
-```
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Revolutionary Features:**
-- ⚡ Real-time donor-hospital matching algorithm
-- 📍 Geolocation-based emergency response system
-- 🔐 HIPAA-compliant security architecture
-- 📊 Predictive analytics for blood supply management
+- ⚡ Real-time donor-hospital matching
+- 📍 Geolocation-based emergency requests
+- 🔐 Secure handling of sensitive user data
+- 📊 Supply tracking to support blood-stock planning
 
-[🔗 View Repository](https://github.com/Daudicode12/blood-donation-with-next.js.git) | [📺 Live Demo](#)
+[🔗 View Repository](https://github.com/Daudicode12/blood-donation-with-next.js)
 
 </details>
 
 <details>
-<summary><b>🤖 CROPCARE AI</b> — Agricultural Intelligence System</summary>
+<summary><b>🌱 CropCare AI</b>: crop health diagnostics for farmers</summary>
+<br/>
 
-```yaml
-Status: Active Development
-Impact: AgriTech Revolution
-Tech: Flutter • TensorFlow • Computer Vision • Firebase
-Mission: Empowering farmers with AI-driven crop health diagnostics
-```
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**AI Capabilities:**
-- 🔬 Real-time disease detection using computer vision
-- 🐛 Pest identification with 95%+ accuracy
-- 💊 Instant treatment recommendations
-- 📈 Crop health analytics & predictive insights
+- 🔬 Disease detection from plant photos using computer vision
+- 🐛 Pest identification
+- 💊 Treatment recommendations
+- 📈 Crop health analytics over time
 
-[🔗 View Repository](https://github.com/Daudicode12/plant-care.git) | [📱 Try Beta](#)
+[🔗 View Repository](https://github.com/Daudicode12/plant-care)
 
 </details>
 
 <details>
-<summary><b>🌾 AGROVAULT</b> — Farmer-Market Integration Platform</summary>
+<summary><b>🌾 AgroVault</b>: direct farmer-to-market platform</summary>
+<br/>
 
-```yaml
-Status: Scaling Phase
-Impact: Agricultural Economics
-Tech: React • Node.js • Express • Postgres
-Mission: Direct market access for farmers through digital transformation
-```
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Platform Features:**
-- 💰 Transparent pricing & market analytics
+- 💰 Transparent pricing and market insights
 - 🤝 Direct farmer-buyer connections
-- 📦 Supply chain optimization
-- 📊 Real-time commodity tracking
+- 📦 Supply chain visibility
+- 📊 Commodity price tracking
 
-[🔗 View Repository](https://github.com/Daudicode12/Agrivault) | [📱 Try Beta](#)
+[🔗 View Repository](https://github.com/Daudicode12/Agrivault)
 
 </details>
 
 <details>
-<summary><b>💬 QUANTUM CHATBOT AI</b> — Intelligent Conversation Engine</summary>
+<summary><b>💬 Quantum Chatbot AI</b>: conversational engine</summary>
+<br/>
 
-```yaml
-Status: Beta Release
-Impact: Customer Experience Enhancement
-Tech: Node.js • NLP • Machine Learning • WebSocket
-Mission: Next-gen conversational AI for seamless user interactions
-```
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-**Intelligence Features:**
-- 🧠 Context-aware conversation handling
+- 🧠 Context-aware conversations
 - 🌐 Multi-language support
-- 📚 Dynamic knowledge base integration
-- ⚡ Real-time response optimization
-
-[🔗 Explore](#)
+- 📚 Knowledge-base integration
+- ⚡ Real-time responses over WebSockets
 
 </details>
 
----
+<div align="right"><a href="#top">⬆ back to top</a></div>
 
-## 📡 ACTIVE.RESEARCH
+<a id="graph"></a>
+<img src="assets/h-3d.svg" width="100%" alt="3D contributions" />
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  CURRENT EXPLORATION VECTORS                            │
-├─────────────────────────────────────────────────────────┤
-│  → Advanced AI/ML model integration & optimization     │
-│  → Microservices architecture & distributed systems    │
-│  → Serverless computing & edge deployment strategies   │
-│  → WebAssembly for high-performance web applications   │
-│  → Blockchain integration for decentralized solutions  │
-│  → Quantum computing readiness & algorithms
-│  - Cyber Security expert
-└─────────────────────────────────────────────────────────┘
-```
+<!-- Generated daily by .github/workflows/profile-3d.yml (run it once manually first) -->
+<img src="profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D animated GitHub contribution graph" />
 
 </div>
 
----
-
-## 📊 SYSTEM.METRICS
+<a id="stats"></a>
+<img src="assets/h-stats.svg" width="100%" alt="GitHub stats" />
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Daudicode12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Daudicode12&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Daudicode12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="GitHub stats" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Daudicode12&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="GitHub streak" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daudicode12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Daudicode12&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" alt="Contribution Graph" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daudicode12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top languages" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Daudicode12&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" alt="Contribution activity" width="48%" />
 
-### 🏆 ACHIEVEMENT UNLOCKED
+<br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Daudicode12&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/Daudicode12)
+<a href="https://github.com/Daudicode12">
+  <img src="https://github-profile-trophy.vercel.app/?username=Daudicode12&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub trophies" />
+</a>
 
 </div>
 
----
+<div align="right"><a href="#top">⬆ back to top</a></div>
 
-## 🌐 CONNECT.PROTOCOL
+<a id="build"></a>
+<img src="assets/h-build.svg" width="100%" alt="How I build" />
 
-<div align="center">
-
-```ascii
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  OPEN FOR COLLABORATION • INNOVATION • IMPACT      ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#0D1117','primaryBorderColor':'#00F7FF','primaryTextColor':'#ffffff','lineColor':'#9D4EDD'}}}%%
+flowchart LR
+    A([💡 Idea]) --> B[Data model & API design]
+    B --> C[Secure backend<br/>Node.js / Spring Boot]
+    C --> D[Frontend or mobile<br/>React / Next.js / Flutter]
+    D --> E[Test & deploy<br/>Docker / CI]
+    E --> F([🔁 Feedback & iterate])
+    F -.-> B
 ```
 
-**Let's build something extraordinary together.**
+<div align="right"><a href="#top">⬆ back to top</a></div>
 
-📧 **Secure Channel:** [davidonya2@gmail.com](mailto:davidonya2@gmail.com)  
-💼 **Professional Network:** [LinkedIn/DavidOnyango](https://linkedin.com/in/daudislugger)  
-🌐 **Digital Presence:** Portfolio Launching Soon  
-🐙 **Open Source:** [GitHub/DavidOnyango](https://github.com/Daudicode12)
+<a id="explore"></a>
+<img src="assets/h-explore.svg" width="100%" alt="Currently exploring" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thank%20You%20For%20Visiting&fontSize=20&fontColor=FFFFFF&animation=twinkling" width="100%" />
+<div align="center">
+
+| Track | What I'm working on |
+|:--|:--|
+| 🤖 **AI/ML** | Integrating models into production backends |
+| 🧱 **Architecture** | Microservices and distributed systems |
+| 🔐 **Security** | Application security and ethical pentesting |
+| ☁️ **Deployment** | Serverless and edge strategies |
+| ⚡ **Performance** | WebAssembly for high-performance web apps |
 
 </div>
 
----
+<a id="connect"></a>
+<img src="assets/h-connect.svg" width="100%" alt="Let's connect" />
 
 <div align="center">
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/username/repo-name/blob/main/notebook.ipynb)
 
-**⚡ "Code is poetry written in logic, and innovation is the verse that changes the world." ⚡**
+**Open to collaboration, internships and meaningful projects. Let's build something that matters.**
 
-*Engineered with precision by [David Onyango](https://github.com/Daudicode12) • © 2025*
+<br/>
+
+<a href="mailto:davidonya2@gmail.com"><img src="https://img.shields.io/badge/📧_Email_me-davidonya2@gmail.com-EA4335?style=for-the-badge" alt="Email" /></a>
+<a href="https://linkedin.com/in/daudislugger"><img src="https://img.shields.io/badge/💼_LinkedIn-daudislugger-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://github.com/Daudicode12"><img src="https://img.shields.io/badge/🐙_GitHub-Daudicode12-181717?style=for-the-badge" alt="GitHub" /></a>
+
+<br/><br/>
+
+<img src="assets/footer.svg" width="100%" alt="Thanks for visiting" />
 
 </div>
